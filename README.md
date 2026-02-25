@@ -32,3 +32,8 @@ npm run dev
 - `POST /api/tasks`
 - `PUT /api/tasks/:id`
 - `DELETE /api/tasks/:id`
+
+- Christian Valerio, Christine Quintana
+
+
+
